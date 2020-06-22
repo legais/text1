@@ -1,6 +1,6 @@
 Text
 
-echo "# text3" >> README.md 
+ echo "# text3" >> README.md 
 
 git init 
 
