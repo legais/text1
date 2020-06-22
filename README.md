@@ -4,11 +4,11 @@ Text
 
 git init 
 
-git add .gitignore README.md 
+git add README.md 
 
 git commit -m "primeiro commit"
 
-git remote add .gitignore origin https://github.com/legais/text3.git
+git remote add origin https://github.com/legais/text3.git
 
  git push -u origin master
                 
